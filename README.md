@@ -1,2 +1,2 @@
 # Atlanta Evertonian
-<h3>Thoughts of an Everton supporter from Atlanta.</h3>
+I am learning to code and for practice I am making a website for a group of Everton fans located in Atlanta, Ga.
